@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+# hugo-alageek-theme
+A [Cocoa Enhaced](https://github.com/mtn/cocoa-eh-hugo-theme) based theme. It's rewritten with **Bootstrap 4**.
 
-You can use the [editor on GitHub](https://github.com/ACRora/ACRora.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![](/images/screenshot.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Websites that are using hugo with alaGeek theme:
 
-### Markdown
+* https://alageek.com
+* https://gokmengorgen.net
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Features
 
-```markdown
-Syntax highlighted code block
+* Social media links on the footer:
+    - 500px
+    - Facebook
+    - Flattr
+    - GitHub
+    - GitLab
+    - Linkedin
+    - Mastodon
+    - Twitter
+* Homepage with latest and best posts.
+* Single pages, sections with a header and a list of articles
+* Syntax highlighting with `hightlightjs`
+* Progressive images
+* Twitter cards support
+* LaTeX support with MathJax
+* Possibility to add extra scripts with `footer_extra.html`
+* Disqus support
+* Dark-mode support
+* High accessibility score
+* Pagination support in blog posts
+* General and post-specific Table of Contents support.
 
-# Header 1
-## Header 2
-### Header 3
+## Supported Languages
 
-- Bulleted
-- List
+* Catalan
+* English (Default)
+* Romanian
+* Russian
+* Turkish
 
-1. Numbered
-2. List
+## Dependency versions
 
-**Bold** and _Italic_ and `Code` text
+* bootstrap: 4.3.1
+* highlightjs: 9.15.8
+* jquery-slim: 3.3.1
+* mathjax: 2.7.5
+* progressively: 1.2.5
+* webfont: 1.6.28
 
-[Link](url) and ![Image](src)
-```
+## Typography
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* *Raleway* for the titles, light but clearly visible
+* *Merriweather* for the text, an awesome sans serif font to read without difficulties
+* *Menlo* for the code
 
-### Jekyll Themes
+## License
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ACRora/ACRora.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Licensed under the MIT License. See the LICENSE.md file for more details.
